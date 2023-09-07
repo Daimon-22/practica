@@ -1,0 +1,3 @@
+123,Santiago,07,01,2003,Medellin,calle,23,avenue,campoamor,medellin,3188356590,santi@gmail.com
+1234,Martin,08,01,2003,Medellin,calle,23,avenue,campoamor,medellin,319,martin@gmail.com
+12,Catalina,13,11,2003,Medellin,calle,5,avenue,belen,medellin,314,catapa.com
